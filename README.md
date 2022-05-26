@@ -13,7 +13,7 @@
 const nunes = {
   age: 21,
   country: Brazil,
-  code: [Javascript, HTML, CSS, Python, Java, C, C++],
+  code: [Javascript, HTML, CSS, Python, Java, C, C++, R],
   tools: [React, React Native, Node],
   design: [Photoshop, After Effects, Premiere, Figma & more],
   
