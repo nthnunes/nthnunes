@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Nathan+Nunes;And+I+love+☕+Java+☕&center=true&size=30">
+  </a>
+</h1>
 
-<!--
-**nthnunes/nthnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nthnunes&show_icons=true&icon_color=4ebcf0&hide_border=true&theme=dark&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnunes&layout=compact&langs_count=7&hide_border=true&theme=dark&bg_color=0D1117"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const nunes = {
+  age: 21,
+  country: Brazil,
+  code: [Javascript, HTML, CSS, Python, Java, C, C++],
+  tools: [React, React Native, Node],
+  design: [Photoshop, After Effects, Premiere, Figma & more],
+  
+  myJob: {
+      company: "Marilan Alimentos",
+      location: "Marília - SP",
+      occupation: "Data Scientist"
+  },
+}
+```
