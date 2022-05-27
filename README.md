@@ -16,11 +16,12 @@ const nunes = {
   code: [Javascript, HTML, CSS, Python, Java, C, C++, R],
   tools: [React, React Native, Node],
   design: [Photoshop, After Effects, Premiere, Figma & more],
+  languages: ["English-US", "Portuguese-BR"],
   
   myJob: {
       company: "Marilan Alimentos",
       location: "Marília - SP",
       occupation: "Data Scientist"
-  },
+  }
 }
 ```
