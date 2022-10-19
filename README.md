@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nthnunes&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=fff&text_color=878787&icon_color=58a6fe" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnunes&layout=compact&langs_count=7&hide_border=true&theme=dark&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nthnunes&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=C6C6C6&text_color=878787&icon_color=58a6fe" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnunes&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=C6C6C6"/>
 </p>
 
 ```javascript
