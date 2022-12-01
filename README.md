@@ -15,7 +15,7 @@ const nunes = {
   country: Brazil,
   code: [JavaScript, HTML, CSS, Python, Java, C, C++],
   tools: [Flask, Node, VSCode],
-  database: [MySQL, MongoDB],
+  database: [MySQL, Oracle, MongoDB],
   design: [Photoshop, After Effects, Figma & more],
   languages: ["English-US", "Portuguese-BR"],
   
