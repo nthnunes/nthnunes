@@ -17,7 +17,7 @@ const nunes = {
   tools: [Flask, Node, VSCode],
   database: [MySQL, Oracle, MongoDB],
   design: [Photoshop, After Effects, Figma & more],
-  languages: ["English-US", "Portuguese-BR", "Japanese-JP"],
+  languages: ["English-US", "Japanese-JP", "Portuguese-BR"],
   
   myJob: {
       company: "Marilan Alimentos",
