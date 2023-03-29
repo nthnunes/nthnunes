@@ -11,7 +11,7 @@
 
 ```javascript
 const nunes = {
-  age: 21,
+  age: 22,
   country: Brazil,
   code: [JavaScript, HTML, CSS, Python, Java, C, C++],
   tools: [Flask, Node, VSCode],
