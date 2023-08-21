@@ -18,11 +18,5 @@ const nunes = {
   database: [MySQL, Oracle, MongoDB],
   design: [Photoshop, After Effects, Figma & more],
   languages: ["English-US", "Japanese-JP", "Portuguese-BR"],
-  
-  myJob: {
-      company: "Marilan Alimentos",
-      location: "Marília - SP",
-      occupation: "Systems Analyst"
-  }
 }
 ```
