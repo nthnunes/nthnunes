@@ -18,5 +18,11 @@ const nunes = {
   database: [MySQL, Oracle, MongoDB],
   design: [Photoshop, After Effects, Figma & more],
   languages: ["English-US", "Japanese-JP", "Portuguese-BR"],
+
+  myJob: {
+      company: "iOHub Digital",
+      location: "At home",
+      occupation: "Developer"
+  }
 }
 ```
