@@ -17,12 +17,6 @@ const nunes = {
   tools: [Flask, Node, React, React Native],
   database: [MySQL, Oracle, MongoDB],
   design: [Photoshop, After Effects, Figma & more],
-  languages: ["English-US", "Japanese-JP", "Portuguese-BR"],
-
-  myJob: {
-      company: "iOHub Digital",
-      location: "At home",
-      occupation: "Developer"
-  }
+  languages: ["English-US", "Japanese-JP", "Portuguese-BR"]
 }
 ```
