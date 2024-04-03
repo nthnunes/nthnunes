@@ -22,7 +22,7 @@ const nunes = {
   myJob: {
     company: "iOHub Digital",
     location: "At home",
-    occupation: "Co-founder"
+    occupation: "COO & Co-founder"
   }
 }
 ```
