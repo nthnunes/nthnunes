@@ -14,8 +14,8 @@ const nunes = {
   age: 23,
   country: Brazil,
   code: [TypeScript, JavaScript, HTML, CSS, Python, Java, C, C++],
-  tools: [Flask, Node, React, React Native, NestJS, Next.js, Tailwind, Prisma],
-  database: [MySQL, PostgreSQL, MongoDB],
+  tools: [Flask, Node, React, React Native, NestJS, Next.js, Tailwind, Docker],
+  database: [MySQL, PostgreSQL, MongoDB, Prisma ORM, Drizzle ORM],
   design: [Photoshop, After Effects, Figma & more],
   languages: ["English-US", "Japanese-JP", "Portuguese-BR"],
 
