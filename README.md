@@ -20,9 +20,9 @@ const nunes = {
   languages: ["English-US", "Japanese-JP", "Portuguese-BR"],
 
   myJob: {
-    company: "iOHub Digital",
+    company: "Leadsy",
     location: "At home",
-    occupation: "COO & Co-founder"
+    occupation: "Software Engineer"
   }
 }
 ```
