@@ -22,7 +22,7 @@ const nunes = {
   myJob: {
     company: "Leadsy",
     location: "At home",
-    occupation: "Senior Software Engineer"
+    occupation: "Founder Software Engineer"
   }
 }
 ```
