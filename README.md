@@ -11,7 +11,7 @@
 
 ```javascript
 const nunes = {
-  age: 23,
+  age: 25,
   country: Brazil,
   code: [TypeScript, JavaScript, HTML, CSS, Python, Java, C],
   tools: [Flask, Node, React, React Native, NestJS, Next.js, Tailwind, Docker],
