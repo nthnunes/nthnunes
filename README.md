@@ -16,13 +16,15 @@ const nunes = {
   code: [TypeScript, JavaScript, HTML, CSS, Python, Java, C],
   tools: [Flask, Node, React, React Native, NestJS, Next.js, Tailwind, Docker],
   database: [MySQL, PostgreSQL, MongoDB, Prisma ORM, Drizzle ORM],
+  cloud: [AWS, Cloudflare, Vercel, Self-hosted VPS],
+  ai: [AI-Driven Features, LLM Integration, MCP],
   design: [Photoshop, After Effects, Figma & more],
   languages: ["English-US", "Japanese-JP", "Portuguese-BR"],
 
   myJob: {
-    company: "Leadsy",
+    company: "Guinux",
     location: "At home",
-    occupation: "Founder Software Engineer"
+    occupation: "Leader Software Engineer"
   }
 }
 ```
