@@ -8,7 +8,7 @@
 const nunes = {
   age: 25,
   country: "Brazil",
-  code: ["TypeScript", "JavaScript", "HTML", "CSS", "Python", "Java", "C"],
+  code: ["TypeScript", "JavaScript", "Python", "Java", "C"],
   tools: ["React", "React Native", "Next.js", "NestJS", "Flask"],
   devops: ["Docker", "Terraform"],
   database: ["MySQL", "PostgreSQL", "MongoDB", "Prisma ORM", "Drizzle ORM"],
